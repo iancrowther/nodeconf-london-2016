@@ -19,7 +19,7 @@
     "griddy": "^1.0.1",
     "http-server": "^0.9.0",
     "jade": "^1.11.0",
-    "livereload": "^0.4.1",
+    "livereload": "^0.9.1",
     "nib": "^1.1.0",
     "stylus": "^0.54.0",
     "watchify": "^3.7.0"
