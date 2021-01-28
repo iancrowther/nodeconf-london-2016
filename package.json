@@ -22,6 +22,6 @@
     "livereload": "^0.9.1",
     "nib": "^1.1.0",
     "stylus": "^0.54.0",
-    "watchify": "^3.7.0"
+    "watchify": "^4.0.0"
   }
 }
